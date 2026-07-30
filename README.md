@@ -13,3 +13,5 @@ Olist operates a multi-vendor e-commerce marketplace where business success depe
 5. Evaluate delivery and logistics efficiency by analyzing delivery times, shipping costs, and regional performance to identify operational bottlenecks.
 6. Analyze payment behavior to understand customer payment preferences, installment usage, and their impact on sales.
 7. Provide actionable business recommendations based on the findings to support strategic decision-making, improve operational efficiency, and enhance overall business performance.
+   
+# Data Understanding
