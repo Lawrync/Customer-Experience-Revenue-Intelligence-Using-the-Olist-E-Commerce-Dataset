@@ -16,11 +16,17 @@ Olist operates a multi-vendor e-commerce marketplace where business success depe
    
 # Tools & Libraries
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Plotly
+
 Jupyter Notebook
 
 # Data Understanding
